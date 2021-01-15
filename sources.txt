@@ -1,0 +1,7 @@
+Methodology
+
+1. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+2. https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/
+3. https://www.mygreatlearning.com/blog/gridsearchcv/#:~:text=GridSearchCV%20is%20a%20function%20that,model)%20on%20your%20training%20set.
+4. https://towardsdatascience.com/hyperparameter-tuning-for-support-vector-machines-c-and-gamma-parameters-6a5097416167
+5. https://machinelearningmastery.com/k-fold-cross-validation/#:~:text=Cross-validation%20is%20a%20resampling,is%20to%20be%20split%20into.
